@@ -43,6 +43,7 @@
 | [@FlutterResources](https://t.me/flutter_resources) | Russian |
 | [@FlutterResourcesEN](https://t.me/flutter_resources_en) | English |
 | [@FlutterKeralaUpdates](https://t.me/FlutterKeralaUpdates) | English\Malayalam |
+| [@MyFlutterExperience](https://t.me/MyFlutterExperience) | English\Persian |
 
 ### Slack
 | link                                                            | language |
